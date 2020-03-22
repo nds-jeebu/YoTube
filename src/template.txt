@@ -1,0 +1,8 @@
+
+1. Extract all video frames
+
+2. Create background model
+
+3. Background subtract
+
+4. Create MHI (motion history image)
